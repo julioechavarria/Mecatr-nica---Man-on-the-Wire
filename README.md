@@ -11,3 +11,10 @@ Este proyecto consiste en la construcción de un robot alto con la capacidad de 
 - Placa PCB.
 - Estructura impresa.
 
+🧠 Principio de Funcionamiento:
+
+El sensor MPU6050 mide la inclinación y velocidad angular del robot en tiempo real. El Arduino utiliza estos datos para calcular una corrección y enviar señales a los motores paso a paso, que se activan mediante los EasyDriver, estabilizando la estructura como si el robot estuviera haciendo equilibrio.
+
+- Modelo CAD
+- Esquema de control
+- Presentación PDF
