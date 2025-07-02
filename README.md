@@ -6,6 +6,7 @@ Este proyecto consiste en la construcción de un robot alto con la capacidad de 
 
 - Motor NEMA 17 x2.
 - Driver EasyDriver A3967.
+
 - Sensor GY-521 (MPU6050) — Acelerómetro + Giroscopio.
 - Arduino UNO.
 - Placa PCB.
@@ -18,3 +19,9 @@ El sensor MPU6050 mide la inclinación y velocidad angular del robot en tiempo r
 - Modelo CAD
 - Esquema de control
 - Presentación PDF
+
+## Modelo CAD.
+
+## Esquema Circuito.
+
+![Schematic_DiseñoProyectoManontheWire_2025-07-01](https://github.com/user-attachments/assets/97f97de4-b68c-41e6-91f4-8e7dd1cc3f89)
