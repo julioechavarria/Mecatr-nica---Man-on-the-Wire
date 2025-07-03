@@ -22,6 +22,14 @@ El sensor MPU6050 mide la inclinación y velocidad angular del robot en tiempo r
 
 ## Modelo CAD.
 
+![Imagen de WhatsApp 2025-07-01 a las 17 55 04_bda74b73](https://github.com/user-attachments/assets/3e974a05-64e2-4435-8227-0569a2ed593c)
+
+
+## Esquema PID.
+
+![Imagen de WhatsApp 2025-07-02 a las 19 19 14_75edd3cd](https://github.com/user-attachments/assets/92a5c314-905e-4e12-a656-631b654fa783)
+
+
 ## Esquema Circuito.
 
 ![Schematic_DiseñoProyectoManontheWire_2025-07-02](https://github.com/user-attachments/assets/8bcc8a7a-bbed-45ae-b6d3-c9331c7381b1)
